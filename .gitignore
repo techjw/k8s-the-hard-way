@@ -1,0 +1,9 @@
+**/*.json
+**/*.csr
+**/*.pem
+terraform/*.tfvars
+terraform/*.tfstate
+terraform/*.backup
+terraform/.terraform
+keys/
+configs/
